@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="mylib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="mssqllib/msbase.jar"/>
+	<classpathentry kind="lib" path="mssqllib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="mssqllib/msutil.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-beanutils-1.8.0.jar" sourcepath="D:/Java EE 【开发】/commons/commons-beanutils-1.8.0/commons-beanutils-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="mylib/antlr.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="mylib/commons-validator.jar"/>
+	<classpathentry kind="lib" path="mylib/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="mylib/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="mylib/standard.jar"/>
+	<classpathentry kind="lib" path="mylib/struts.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

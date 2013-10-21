@@ -1,0 +1,88 @@
+8
+
+dir
+9
+http://localhost/svn/myProjects/jpaDemo/src/com/zyg/jpa/domain
+http://localhost/svn/myProjects
+
+
+
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+
+svn:special svn:externals svn:needs-lock
+
+Employee.java
+file
+
+
+
+
+2008-11-10T11:53:46.781250Z
+74b9d84a565f0e9dc7faf11df6c47f27
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+Department.java
+file
+
+
+
+
+2008-11-10T12:02:00.828125Z
+ca3087e2c6577cae9277e98ace87eedc
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+MyUser.java
+file
+
+
+
+
+2008-11-10T11:27:41.328125Z
+f6c27d906e9f1c7ffe1eb81b002769a7
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+Skiller.java
+file
+
+
+
+
+2008-11-10T13:20:28.578125Z
+1b0d650e0af81d685ff0384b8735e313
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+Sales.java
+file
+
+
+
+
+2008-11-10T11:54:44.921875Z
+d7fb23eb7d31caf97900de7ec22efc7b
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+User.java
+file
+
+
+
+
+2008-11-10T11:30:07.984375Z
+5efad2a33dff971676f542b44d7cfdcf
+2008-11-10T14:43:27.812500Z
+9
+changong
+

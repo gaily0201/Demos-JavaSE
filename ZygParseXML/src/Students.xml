@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<student id="2004100107" name="张燕广">
+		<books>
+			<book id="1" name="C语言"></book>
+			<book id="2" name="java语言"></book>
+			<book id="3" name="C#语言"></book>
+		</books>
+	</student>
+	<student id="2004100105" name="牛小花">
+		<books>
+			<book id="1" name="数据结构"></book>
+			<book id="2" name="计算机原理"></book>
+		</books>
+	</student>
+	<student id="2004100104" name="富大龙">
+	</student>
+</students>

@@ -1,0 +1,28 @@
+8
+
+dir
+9
+http://localhost/svn/myProjects/jpaDemo/src/META-INF
+http://localhost/svn/myProjects
+
+
+
+2008-11-10T14:43:27.812500Z
+9
+changong
+
+
+svn:special svn:externals svn:needs-lock
+
+persistence.xml
+file
+
+
+
+
+2008-11-09T14:16:23.203125Z
+5619063009fd22f48a00e02cc6f696d7
+2008-11-10T14:43:27.812500Z
+9
+changong
+

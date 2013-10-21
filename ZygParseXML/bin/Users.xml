@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+	<user id="1">
+		<name>张燕广</name>
+		<age>24</age>
+		<sex>男</sex>
+		<dogs>
+			<dogName>gou</dogName>
+		</dogs>
+	</user>
+	<user  id="2">
+		<name>花花</name>
+		<age>23</age>
+		<sex>女</sex>
+	</user>
+	<user  id="3">
+		<name>changgong</name>
+		<age>24</age>
+		<sex>男</sex>
+	</user>
+</users>
